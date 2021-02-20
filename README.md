@@ -1,9 +1,17 @@
 # UFOs
 
-Provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, add table filters for the city, state, country, and shape.
+Building a webpage using JavaScript and HTML to filter UFO sightings on multiple criteria 
 
-# Deliverable 1: Filter UFO sightings on multiple criteria 
+# Overview
 
-Using JavaScript and HTML, you’ll modify the code in your index.html file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape
+The purpose of this project is to build a webpage using HTML and Javascript to pull information from UFO sightings dataset. Create filter tables on the page to allow users to filter for multiple criteria at the same time like date, city, state, country, or shape. 
+
+# Results:
+
+
+
+
+
+
 
 
