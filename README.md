@@ -18,7 +18,8 @@ As you scroll down, you will see on your left, the filter search section with 5 
 
 # Summary
 
-
+The webpage looks clean, the header is appealing and the titles are bold. It contains basic information of UFO sightings (date, City, Sate, country, Shape, Duration and comments) and has option to filter information based on multiple criteria. Each time  new criteria is entered the webpage is refreshed with filtered data. 
+To make the webpage more appealing and interesting we could have added more color and information to the table as sources and pictures.
 
 
 
