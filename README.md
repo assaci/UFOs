@@ -8,6 +8,7 @@ The purpose of this project is to build a webpage using HTML and Javascript to p
 
 # Results:
 
+![Header](https://github.com/assaci/UFOs/blob/main/static/images/Header.PNG?raw=true)
 
 
 
